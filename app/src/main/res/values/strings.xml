@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MojQuiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Falsz</string>
+    <string name="button_next">Nastepne</string>
+    <string name="q_activity">Czy Ala ma kota?</string>
+    <string name="q_version">Czy kot belgijski to najpopularniejszy kot w Polsce?</string>
+    <string name="q_listener">Czy Gdansk znajduje sie w wojewodztwie Podlaskim?</string>
+    <string name="q_resources">Czy 2+2=5?</string>
+    <string name="q_find_resources">Czy sfinksy maja futro?</string>
+    <string name="correct_answer">Prawda</string>
+    <string name="incorrect_answer">Bledna</string>
+</resources>
